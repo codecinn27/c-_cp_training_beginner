@@ -1,0 +1,33 @@
+all of the question in the list
+1) sum of the array
+2) maximum value in the array
+3) reverse the array
+
+to do
+https://www.geeksforgeeks.org/array-data-structure/
+https://www.geeksforgeeks.org/c-programs-gq/array-programs-gq/
+https://www.geeksforgeeks.org/top-50-array-coding-problems-for-interviews/
+1) search a number in the element
+2)binary search 
+3) second largest
+4) rotate array
+5)first repeating element
+6) remove duplicate element from array
+7) value equal to index value
+8) moves all zero to the end of array
+9) count the odd and even
+10) replacing all 0' with 5
+
+to do sorting
+https://www.geeksforgeeks.org/sorting-algorithms/
+https://www.w3resource.com/cpp-exercises/sorting-and-searching/index.php
+1) bubble sorting
+2) selection sort 
+3) insertion sort
+4) merge sort
+5) quick sort
+6) counting sort
+7) radix sort
+8) heap sort
+9) shell sort
+10) tim sort
