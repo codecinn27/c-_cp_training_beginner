@@ -12,6 +12,8 @@ int main() {
     str.erase(str.begin() + 1);
     
     cout << str << endl; // Output: hllo
-    
+    auto itt = str.begin();
+    cout<<"first letter: "<<*itt;
+
     return 0;
 }

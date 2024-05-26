@@ -10,7 +10,9 @@ int main(){
     int n;
     cout<<"Enter the number of days: ";
     cin>>n;
+
     //today is fridays
+
     int remaining_days,total_fridays,total_week;
     total_week = n/7;
     remaining_days = n%7;
@@ -19,5 +21,5 @@ int main(){
     }
     total_fridays +=total_week;
     cout<<"Total fridays in "<<n<<"the particular days is :"<<total_fridays<<endl;
-
+    
 }
